@@ -8,6 +8,7 @@ Set up locally with:
 git clone https://github.com/rohiitgit/todo-cli.git
 cd todo-cli
 npm install commander
+node todos.js help
 ```
 .
 
